@@ -1,0 +1,42 @@
+[
+    {
+        "destination": "Amalfi Coast",
+        "country": "Italy",
+        "cost": 1800,
+        "keywords": [
+            "beach",
+            "romantic",
+            "scenic"
+        ]
+    },
+    {
+        "destination": "Santorini",
+        "country": "Greece",
+        "cost": 2000,
+        "keywords": [
+            "island",
+            "luxury",
+            "sunset"
+        ]
+    },
+    {
+        "destination": "Tokyo",
+        "country": "Japan",
+        "cost": 2200,
+        "keywords": [
+            "city",
+            "tech",
+            "culture"
+        ]
+    },
+    {
+        "destination": "Paris",
+        "country": "France",
+        "cost": 1600,
+        "keywords": [
+            "romantic",
+            "city",
+            "art"
+        ]
+    }
+]
